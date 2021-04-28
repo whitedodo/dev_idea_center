@@ -17,3 +17,7 @@
 ###### (Hair-Haircut (Sports Cut, Hair Cut))
 ###### 6. 치수 측정, 커튼 설치, 2021-04-28, 도도(Dodo)
 ###### (Measurement of dimensions, installation of curtains) [2021-04-19, 2021-04-28]
+###### 7. 거실, 방 청소하기(바닥 밀대로 닦기(외관 청소)), 2021-04-28, 도도(Dodo)
+###### (Cleaning the living room and room (wiping with a floor pusher (cleaning the exterior))
+###### 8. 신발 손 세탁 및 건조하기, 2021-04-28, 도도(Dodo)
+###### (Hand washing and drying shoes)
