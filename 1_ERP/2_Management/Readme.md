@@ -23,3 +23,5 @@
 ###### (Hand washing and drying shoes)
 ###### 9. 부동산, 원룸 계약서, 통장거래내역서, 2021-04-28, 도도(Dodo)
 ###### (Real estate, studio contract, bankbook transaction details)
+###### 10. 라면 끓여서 먹기, 식사하기, 2021-04-28, 도도(Dodo)
+###### (Boil and eat ramen)
