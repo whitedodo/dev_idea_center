@@ -15,3 +15,5 @@
 ###### (Preparing meals, eating meals, making coffee)
 ###### 5. 헤어 - 이발하기(스포츠 컷, 헤어 컷), 2021-04-27, 도도(Dodo)
 ###### (Hair-Haircut (Sports Cut, Hair Cut))
+###### 6. 치수 측정, 커튼 설치, 2021-04-28, 도도(Dodo)
+###### (Measurement of dimensions, installation of curtains) [2021-04-19, 2021-04-28]
