@@ -21,3 +21,5 @@
 ###### (Cleaning the living room and room (wiping with a floor pusher (cleaning the exterior))
 ###### 8. 신발 손 세탁 및 건조하기, 2021-04-28, 도도(Dodo)
 ###### (Hand washing and drying shoes)
+###### 9. 부동산, 원룸 계약서, 통장거래내역서, 2021-04-28, 도도(Dodo)
+###### (Real estate, studio contract, bankbook transaction details)
