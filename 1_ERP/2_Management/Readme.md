@@ -27,3 +27,5 @@
 ###### (Boil and eat ramen)
 ###### 11. 설거지 하기, 2021-04-29, 도도(Dodo)
 ###### (Washing dishes)
+###### 12. 원룸(모텔) - 일상생활(세면대 식사 준비, 식사, 양치질, 물 마시기, 세수하기, 머리감기, 분리수거, 2021-04-29, 도도(Dodo)
+###### (One-room (motel)-daily life (wash basin preparing meals, eating, brushing teeth, drinking water, washing face, washing hair, separate collection))
