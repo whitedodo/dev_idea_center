@@ -25,3 +25,5 @@
 ###### (Real estate, studio contract, bankbook transaction details)
 ###### 10. 라면 끓여서 먹기, 식사하기, 2021-04-28, 도도(Dodo)
 ###### (Boil and eat ramen)
+###### 11. 설거지 하기, 2021-04-29, 도도(Dodo)
+###### (Washing dishes)
