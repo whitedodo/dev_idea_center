@@ -1,5 +1,5 @@
-### 대출 상품 / 현금흐름
-### (Loan Product / Cash Flow)
+### 대출 상품 / 현금흐름 시나리오 작성하기
+### (Loan Product / Writing a Cash Flow Scenario)
 
 ##### 1. 작성일자(Created date): 2021-05-19 (Wed) / 수요일
 ##### 2. 작성자(Author): 도도(Dodo)
