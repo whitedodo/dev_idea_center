@@ -9,3 +9,5 @@
 ##### 4. 비고(Description):
 ###### 1. 학자금 대출 및 현금흐름 내역서, 2021-02-12, 도도(Dodo).
 ###### (Student Loan and Cash Flow Statement), 2021-02-12, 도도(Dodo).
+###### 2. 가을학기에 입학을 시작하는 대학원 비교(타당성 검토), 2021-05-23, 도도(Dodo).
+###### (Comparison of graduate schools starting admission in the fall semester (validity review))
